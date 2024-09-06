@@ -5,11 +5,8 @@
     <classes>
       <class name="homePage.MyTestCases">
         <methods>
-          <include name="CheckContactNumber"/>
           <include name="MySetup"/>
-          <include name="CheckDefaultCurrency"/>
-          <include name="CheckTheLogo"/>
-          <include name="CheckTheDefaultLanguageIsEnglish"/>
+          <include name="checkFlightDepartureDate"/>
         </methods>
       </class> <!-- homePage.MyTestCases -->
     </classes>
